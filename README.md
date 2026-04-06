@@ -2,7 +2,7 @@
 
 **Lead Software Engineer in Tokyo** | Full-Stack | 6+ Years | Building Products 0 → 1
 
-I lead development across multiple projects and microservices at an enterprise insurance company in Japan. I've built LINE mini-apps with Live2D animation, HR portals with BPMN workflow automation, and agent platforms serving thousands of users — all from scratch.
+I lead development across multiple projects and microservices at enterprise companies in Japan. I've built mobile apps, HR portals with workflow automation, and agent platforms serving thousands of users — many from scratch as sole engineer.
 
 I'm bilingual (English & Japanese) and thrive in cross-functional agile teams.
 
@@ -72,13 +72,16 @@ I'm bilingual (English & Japanese) and thrive in cross-functional agile teams.
 - **[nme-print-bridge](https://github.com/narbada-madhusudhan/nme-print-bridge)** — Lightweight Go thermal printer bridge for web POS systems. Single binary, zero dependencies.
 
 ### Enterprise (Private)
-> At AXA Life Insurance Japan, I lead development of an Agent Portal (React + Spring Boot + AWS), built a LINE LIFF training app with Live2D from scratch (Next.js + Cloudflare Workers), and delivered an internal HR portal with Camunda BPMN workflows as sole engineer.
+> At my current role, I lead development of an enterprise agent portal (React + Spring Boot + AWS), built internal web apps from scratch (Next.js + Cloudflare Workers), and delivered an HR portal with Camunda BPMN workflows as sole engineer. Optimized complex SQL queries from 5 minutes to under 5 seconds for millions of records.
 
 ---
 
-## Currently Building
+## What I Do
 
-- **YOMO (ヨモ)** — A Japanese reading aloud (音読) practice app with AI-powered feedback. React Native + Expo + Go API + Rive animations.
+- Build full-stack products from 0 → 1 (mobile apps, web platforms, internal tools)
+- Lead small dev teams in agile environments
+- Optimize system performance at scale
+- Architect microservices and cloud-native solutions
 
 ---
 
@@ -98,7 +101,7 @@ I'm bilingual (English & Japanese) and thrive in cross-functional agile teams.
 
 **東京在住 リードソフトウェアエンジニア** | フルスタック | 経験6年以上 | プロダクトを0→1で構築
 
-日本の大手保険会社で複数プロジェクト・マイクロサービスの開発をリードしています。Live2Dアニメーション付きLINEミニアプリ、Camunda BPMNワークフロー自動化を搭載したHRポータル、数千人が利用するエージェントプラットフォームなど、すべてゼロから構築しました。
+日本の企業で複数プロジェクト・マイクロサービスの開発をリードしています。モバイルアプリ、ワークフロー自動化を搭載したHRポータル、数千人が利用するエージェントプラットフォームなど、多くをゼロから単独エンジニアとして構築しました。
 
 日英バイリンガルで、クロスファンクショナルなアジャイルチームで活躍しています。
 
@@ -110,18 +113,21 @@ I'm bilingual (English & Japanese) and thrive in cross-functional agile teams.
 | フロントエンド | React, Next.js, Angular, React Native, Flutter |
 | バックエンド | Spring Boot, Node.js, Django, Hono, Express |
 | DB・クラウド | MySQL, PostgreSQL, AWS, Docker, Cloudflare Workers, Vercel |
-| その他 | LINE LIFF SDK, Live2D, Camunda BPMN, Playwright, Rive |
+| その他 | Camunda BPMN, Playwright, Live2D, Rive |
 
 ### 主な実績
 
 - 複雑なSQLクエリの実行時間を**5分→5秒未満**に最適化（数百万レコード対応）
 - レガシーシステムからモダンなマイクロサービスアーキテクチャへの移行を主導
-- LINE LIFFベースのエージェント研修アプリをゼロから開発（Live2Dキャラクターアニメーション付き）
+- 社内Webアプリをゼロから複数開発（Next.js + Cloudflare Workers）
 - 社内HRポータルを唯一のエンジニアとして0→1で構築（開発・テスト・DevOps全担当）
 
-### 現在取り組んでいること
+### 得意なこと
 
-- **YOMO（ヨモ）** — AI音読練習アプリ（React Native + Expo + Go API + Riveアニメーション）
+- フルスタックプロダクトの0→1開発（モバイル・Web・社内ツール）
+- アジャイル環境での小規模チームリード
+- 大規模システムのパフォーマンス最適化
+- マイクロサービス・クラウドネイティブアーキテクチャの設計
 
 ### 学歴
 
