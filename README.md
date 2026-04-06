@@ -50,12 +50,13 @@ Bilingual in English (IELTS 7.5) and Japanese (JLPT N2 level). I thrive in cross
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subash1999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subash1999&theme=tokyonight" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=subash1999&theme=tokyonight&hide_border=true&background=0d1117" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subash1999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=10" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subash1999&theme=tokyonight" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subash1999&theme=tokyonight&utcOffset=9" height="170" />
 </div>
 
 <br>
