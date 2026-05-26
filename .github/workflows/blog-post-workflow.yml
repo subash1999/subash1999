@@ -1,0 +1,28 @@
+name: Latest Medium posts → profile README
+
+on:
+  schedule:
+    # daily at 00:00 UTC (09:00 JST). Updates within 24h of any new post.
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # allow manual run via GitHub UI or `gh workflow run`
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Pull Medium RSS and update README
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull latest 5 posts from Medium RSS into README markers
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@subash.niroula4455"
+          max_post_count: 5
+          template: "- [$title]($url) · $description"
+          comment_tag_name: "BLOG-POST-LIST"
+          commit_message: "chore(profile): refresh Medium posts list"
+          tag_post_pre_newline: true
