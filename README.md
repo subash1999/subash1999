@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Lead+Software+Engineer+in+Tokyo;Full-Stack+%7C+6%2B+Years+%7C+Building+Products+0%E2%86%921;React+%7C+Spring+Boot+%7C+Next.js+%7C+Go+%7C+AWS)](https://github.com/subash1999)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subash-niroula-9a2734181/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@subash.niroula4455)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://subashn.com.np)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subash.niroula4455@gmail.com)
 
@@ -64,6 +65,21 @@ Bilingual in English (IELTS 7.5) and Japanese (JLPT N2 level). I thrive in cross
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=subash1999&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=60a5fa&line=60a5fa&point=ffffff" width="95%" />
 </div>
+
+---
+
+### Writing
+
+I write about systems engineering, AI tooling, and the practical details of running developer infrastructure.
+
+📖 **Latest:** [Cut Claude Max Quota Burn: 9-Model Local LLM Bench on an 18 GB Mac](https://medium.com/@subash.niroula4455/cut-claude-max-quota-burn-9-model-local-llm-bench-on-an-18-gb-mac-6bf65119a0d6) — 9-model benchmark, MCP bridge architecture, Carbon-rendered scorecard.
+
+[**All posts on Medium →**](https://medium.com/@subash.niroula4455)
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+> 💡 The `BLOG-POST-LIST` markers above auto-populate via [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) when the GitHub Action is enabled — adds the 5 most-recent Medium posts on a schedule.
 
 ---
 
