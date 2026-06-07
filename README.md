@@ -75,9 +75,7 @@ Currently pursuing an **MS in Computer Science at Georgia Tech (OMSCS)**. Biling
 
 ### Writing
 
-I write about systems engineering, AI tooling, and the practical details of running developer infrastructure.
-
-📖 **Latest:** [Cut Claude Max Quota Burn: 9-Model Local LLM Bench on an 18 GB Mac](https://medium.com/@subash.niroula4455/cut-claude-max-quota-burn-9-model-local-llm-bench-on-an-18-gb-mac-6bf65119a0d6) — 9-model benchmark, MCP bridge architecture, Carbon-rendered scorecard.
+I write about systems engineering, AI tooling, and the practical details of running developer infrastructure. Recent posts (auto-updated from Medium):
 
 [**All posts on Medium →**](https://medium.com/@subash.niroula4455)
 

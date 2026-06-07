@@ -1,0 +1,33 @@
+name: Refresh README dynamic fields
+
+on:
+  schedule:
+    - cron: '0 0 1 * *'   # monthly (years of experience changes slowly)
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - '.github/scripts/refresh-readme.py'
+      - '.github/workflows/refresh-readme.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Refresh time-based fields
+        run: python3 .github/scripts/refresh-readme.py
+      - name: Commit if changed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(readme): refresh years of experience ($(date -u +%F))"
+            git push
+          else
+            echo 'README years already current'
+          fi
