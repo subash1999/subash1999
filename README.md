@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subash-niroula-9a2734181/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@subash.niroula4455)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://subashn.com.np)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subash.niroula4455@gmail.com)
 
 </div>
 
@@ -15,7 +14,9 @@
 
 ### About Me
 
-Senior full-stack engineer in Tokyo. I lead development across multiple projects and microservices at an enterprise company in Japan. I've built mobile apps, HR portals with workflow automation, and agent platforms serving thousands of users — many from scratch as sole engineer.
+Senior full-stack engineer in Tokyo. I lead development across multiple projects and microservices at **AXA Life Insurance** in Japan. I've built mobile apps, HR portals with workflow automation, and agent platforms serving thousands of users — many from scratch as sole engineer.
+
+I also build **AI tooling** — multi-agent orchestration, Claude & Claude Code workflows, MCP (Model Context Protocol) servers, and local-LLM benchmarking to cut AI-agent costs.
 
 Currently pursuing an **MS in Computer Science at Georgia Tech (OMSCS)**. Bilingual in English (IELTS 7.5) and Japanese (JLPT N2 level). I thrive in cross-functional agile teams.
 
@@ -43,6 +44,10 @@ Currently pursuing an **MS in Computer Science at Georgia Tech (OMSCS)**. Biling
   <tr>
     <td><b>Tools</b></td>
     <td><img src="https://skillicons.dev/icons?i=git,github,jenkins,linux,vscode&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td><b>AI / LLM</b></td>
+    <td>Claude · Claude Code · MCP (Model Context Protocol) · Multi-agent orchestration · RAG · Local-LLM tooling</td>
   </tr>
 </table>
 
@@ -101,9 +106,9 @@ I write about systems engineering, AI tooling, and the practical details of runn
   </tr>
   <tr>
     <td width="50%">
-      <h4><a href="https://github.com/subash1999/golden-sungava-homepage">Golden Sungava Homepage</a></h4>
-      <p>Modern company homepage with Supabase backend, Tailwind CSS, deployed on Vercel.</p>
-      <img src="https://img.shields.io/badge/Next.js_15-black?style=flat-square&logo=next.js" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <h4><a href="https://github.com/subash1999/claude-local-llm-setup">Local-LLM MCP Bridge</a></h4>
+      <p>MCP bridge that offloads Claude Code work to a local Qwen2.5-Coder on an 18 GB Mac — cuts AI-agent quota burn. Multi-agent, semantic-search skill, 9-model benchmark.</p>
+      <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/MCP-000?style=flat-square" /> <img src="https://img.shields.io/badge/Local_LLM-FF6F00?style=flat-square" />
     </td>
     <td width="50%">
       <h4><a href="https://github.com/nepal-ride-sharing-app">Ride Sharing Platform</a></h4>
@@ -125,9 +130,9 @@ I write about systems engineering, AI tooling, and the practical details of runn
   </tr>
 </table>
 
-#### Enterprise (Private)
+#### AXA Life Insurance
 
-> I lead development of an enterprise agent portal (React + Spring Boot + AWS), built internal web apps from scratch (Next.js + Cloudflare Workers), and delivered an HR portal with Camunda BPMN workflows as sole engineer. Optimized SQL queries from **5 minutes to under 5 seconds** for millions of records.
+> At AXA, I lead development of the Agent Portal (React + Spring Boot + AWS), built internal web apps from scratch (Next.js + Cloudflare Workers), and delivered an HR portal with Camunda BPMN workflows as sole engineer. Optimized SQL queries from **5 minutes to under 5 seconds** for millions of records.
 
 ---
 
@@ -160,7 +165,7 @@ Optimize performance at scale       ·    Architect microservices & cloud soluti
 
 </div>
 
-日本の企業で複数プロジェクト・マイクロサービスの開発をリードしています。モバイルアプリ、ワークフロー自動化を搭載したHRポータル、数千人が利用するエージェントプラットフォームなど、多くをゼロから単独エンジニアとして構築しました。
+アクサ生命保険で複数プロジェクト・マイクロサービスの開発をリードしています。モバイルアプリ、ワークフロー自動化を搭載したHRポータル、数千人が利用するエージェントプラットフォームなど、多くをゼロから単独エンジニアとして構築しました。
 
 日英バイリンガルで、クロスファンクショナルなアジャイルチームで活躍しています。
 
