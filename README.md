@@ -2,7 +2,7 @@
 
 # Subash Niroula
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Lead+Software+Engineer+in+Tokyo;Full-Stack+%7C+6%2B+Years+%7C+Building+Products+0%E2%86%921;React+%7C+Spring+Boot+%7C+Next.js+%7C+Go+%7C+AWS)](https://github.com/subash1999)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Engineer+in+Tokyo;Full-Stack+%7C+6%2B+Years+%7C+Building+Products+0%E2%86%921;React+%7C+Spring+Boot+%7C+Next.js+%7C+Go+%7C+AWS;MS+CS+%40+Georgia+Tech+(OMSCS))](https://github.com/subash1999)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subash-niroula-9a2734181/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@subash.niroula4455)
@@ -15,9 +15,9 @@
 
 ### About Me
 
-I lead development across multiple projects and microservices at enterprise companies in Japan. I've built mobile apps, HR portals with workflow automation, and agent platforms serving thousands of users — many from scratch as sole engineer.
+Senior full-stack engineer in Tokyo. I lead development across multiple projects and microservices at an enterprise company in Japan. I've built mobile apps, HR portals with workflow automation, and agent platforms serving thousands of users — many from scratch as sole engineer.
 
-Bilingual in English (IELTS 7.5) and Japanese (JLPT N2 level). I thrive in cross-functional agile teams.
+Currently pursuing an **MS in Computer Science at Georgia Tech (OMSCS)**. Bilingual in English (IELTS 7.5) and Japanese (JLPT N2 level). I thrive in cross-functional agile teams.
 
 ---
 
@@ -156,7 +156,7 @@ Optimize performance at scale       ·    Architect microservices & cloud soluti
 
 ## ニロウラ スバス
 
-**東京在住 リードソフトウェアエンジニア** | フルスタック | 経験6年以上 | プロダクトを0→1で構築
+**東京在住 シニアフルスタックエンジニア** | フルスタック | 経験6年以上 | プロダクトを0→1で構築
 
 </div>
 
@@ -189,7 +189,7 @@ Optimize performance at scale       ·    Architect microservices & cloud soluti
 - 社内Webアプリをゼロから複数開発（Next.js + Cloudflare Workers）
 - 社内HRポータルを唯一のエンジニアとして0→1で構築（開発・テスト・DevOps全担当）
 
-**学歴** — ポカラ大学（ネパール工科大学） コンピュータ工学学士 | GPA 3.7/4.0
+**学歴** — ジョージア工科大学 コンピュータサイエンス修士課程（OMSCS・在学中） / ポカラ大学（ネパール工科大学） コンピュータ工学学士 | GPA 3.7/4.0
 
 | 言語 | レベル |
 |------|--------|
