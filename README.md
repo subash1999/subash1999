@@ -18,7 +18,7 @@ Senior full-stack engineer in Tokyo. I lead development across multiple projects
 
 I also build **AI tooling** — multi-agent orchestration, Claude & Claude Code workflows, MCP (Model Context Protocol) servers, and local-LLM benchmarking to cut AI-agent costs.
 
-Currently pursuing an **MS in Computer Science at Georgia Tech (OMSCS)**. Bilingual in English (IELTS 7.5) and Japanese (JLPT N2 level). I thrive in cross-functional agile teams.
+Currently pursuing an **MS in Computer Science at Georgia Tech (OMSCS)** — CS-6400 Database Systems: 94.1/100. **AWS Certified Developer – Associate** (Apr 2026). Bilingual in English (IELTS 7.5) and Japanese (JLPT N2 equivalent). I thrive in cross-functional agile teams.
 
 ---
 
@@ -192,7 +192,9 @@ Optimize performance at scale       ·    Architect microservices & cloud soluti
 - 社内Webアプリをゼロから複数開発（Next.js + Cloudflare Workers）
 - 社内HRポータルを唯一のエンジニアとして0→1で構築（開発・テスト・DevOps全担当）
 
-**学歴** — ジョージア工科大学 コンピュータサイエンス修士課程（OMSCS・在学中） / ポカラ大学（ネパール工科大学） コンピュータ工学学士 | GPA 3.7/4.0
+**学歴** — ジョージア工科大学 コンピュータサイエンス修士課程（OMSCS・在学中、CS-6400 データベースシステム 94.1/100） / ポカラ大学（ネパール工科大学） コンピュータ工学学士 | GPA 3.7/4.0
+
+**資格** — AWS認定デベロッパー – アソシエイト（2026年4月取得）
 
 | 言語 | レベル |
 |------|--------|
