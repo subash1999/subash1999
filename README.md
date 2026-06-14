@@ -91,6 +91,13 @@ I write about systems engineering, AI tooling, and the practical details of runn
 
 <table>
   <tr>
+    <td colspan="2">
+      <h4><a href="https://github.com/subash1999/claude-code-as-infrastructure">Claude Code as Infrastructure</a> &nbsp;·&nbsp; <a href="https://medium.com/p/4009afde1288">6-part Medium series →</a></h4>
+      <p>Treating an AI coding agent like real infrastructure: a capability-slot model registry, a directory-scoped PII firewall, multi-vendor cost routing, a custom MCP server wrapping DeepSeek, and a self-updating config. Open-source reference code plus a technical writing series.</p>
+      <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/MCP-000?style=flat-square" /> <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square" /> <img src="https://img.shields.io/badge/AI_Engineering-FF6F00?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h4><a href="https://github.com/subash1999/slack-hr-bot">Slack HR Bot</a></h4>
       <p>Slack-based attendance, leave, payroll system. 24 slash commands, 12-tab Google Sheets DB. <b>$0/month</b> infrastructure.</p>
