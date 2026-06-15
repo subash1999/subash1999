@@ -80,7 +80,7 @@ I write about systems engineering, AI tooling, and the practical details of runn
 [**All posts on Medium →**](https://medium.com/@subash.niroula4455)
 
 <!-- BLOG-POST-LIST:START -->
-- 📖 [Terraform State Isolation: One Account, Three Envs, One Big Mistake](https://medium.com/@subash.niroula4455/terraform-state-isolation-one-account-three-envs-one-big-mistake-117fa12bda27?source=rss-35a6a5ae9d71------2)- 📖 [Cut Claude Max Quota Burn: 9-Model Local LLM Bench on an 18 GB Mac](https://medium.com/@subash.niroula4455/cut-claude-max-quota-burn-9-model-local-llm-bench-on-an-18-gb-mac-6bf65119a0d6?source=rss-35a6a5ae9d71------2)
+- 📖 [How I Built a Model Registry That Routes Claude Code to Any LLM](https://medium.com/@subash.niroula4455/how-i-built-a-model-registry-that-routes-claude-code-to-any-llm-4009afde1288?source=rss-35a6a5ae9d71------2)- 📖 [Terraform State Isolation: One Account, Three Envs, One Big Mistake](https://medium.com/@subash.niroula4455/terraform-state-isolation-one-account-three-envs-one-big-mistake-117fa12bda27?source=rss-35a6a5ae9d71------2)- 📖 [Cut Claude Max Quota Burn: 9-Model Local LLM Bench on an 18 GB Mac](https://medium.com/@subash.niroula4455/cut-claude-max-quota-burn-9-model-local-llm-bench-on-an-18-gb-mac-6bf65119a0d6?source=rss-35a6a5ae9d71------2)
 <!-- BLOG-POST-LIST:END -->
 
 > 💡 The `BLOG-POST-LIST` markers above auto-populate via [gautamkrishnar/blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow) when the GitHub Action is enabled — adds the 5 most-recent Medium posts on a schedule.
