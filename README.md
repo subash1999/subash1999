@@ -2,7 +2,7 @@
 
 # Subash Niroula
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Engineer+in+Tokyo;Full-Stack+%7C+6%2B+Years+%7C+Building+Products+0%E2%86%921;React+%7C+Spring+Boot+%7C+Next.js+%7C+Go+%7C+AWS;MS+CS+%40+Georgia+Tech+(OMSCS))](https://github.com/subash1999)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Engineer+in+Tokyo;Full-Stack+%7C+7%2B+Years+%7C+Building+Products+0%E2%86%921;React+%7C+Spring+Boot+%7C+Next.js+%7C+Go+%7C+AWS;MS+CS+%40+Georgia+Tech+(OMSCS))](https://github.com/subash1999)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subash-niroula-9a2734181/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@subash.niroula4455)
@@ -166,7 +166,7 @@ Optimize performance at scale       ·    Architect microservices & cloud soluti
 
 ## ニロウラ スバス
 
-**東京在住 シニアフルスタックエンジニア** | フルスタック | 経験6年以上 | プロダクトを0→1で構築
+**東京在住 シニアフルスタックエンジニア** | フルスタック | 経験7年以上 | プロダクトを0→1で構築
 
 </div>
 
