@@ -8,7 +8,7 @@ when the computed value actually changes.
 import datetime
 import re
 
-CAREER_START = datetime.date(2019, 9, 1)
+CAREER_START = datetime.date(2020, 4, 1)
 today = datetime.date.today()
 years = int((today - CAREER_START).days / 365.25)
 
